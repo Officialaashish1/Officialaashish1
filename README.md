@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **RPA (Robotics Process Automation)**
 
-- 👨‍💻 All of my projects are available at [https://officialaashish1.code.blog/](https://officialaashish1.code.blog/)
+- 👨‍💻 All of my projects are available at [https://github.com/Officialaashish1/](https://github.com/Officialaashish1/)
 
 - 💬 About Me **Python-skilled BCA graduate from Sri Dev Suman University, pursuing MCA at Graphic Era Hill University. Passionate about AI, RPA, and software engineering. Seeking an internship to apply Python expertise and further develop skills. Eager to contribute to innovative projects and collaborate with industry professionals. Open to opportunities in AI, RPA, and software engineering.**
 
