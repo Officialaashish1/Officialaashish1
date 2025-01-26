@@ -1,9 +1,9 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Aashish</h1>
 <h3 align="center">A Passionate Developer from India.</h3>
 
-- 🔭 I’m currently working on [Face Recoginization Attendance System](https://github.com/Officialaashish1/Face_Recoginization_Attendance_system_using_Django/)
+- 🔭 I’m currently working on [ChatBot](https://github.com/Officialaashish1/WebScrapping_Chatbot)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **RPA (Robotics Process Automation)**
 
 - 👨‍💻 All of my projects are available at [https://officialaashish1.code.blog/](https://officialaashish1.code.blog/)
 
