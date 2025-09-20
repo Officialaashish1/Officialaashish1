@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Officialaashish1/](https://github.com/Officialaashish1/)
 
-- 💬 About Me **I am an AI Engineer based in Noida with a strong foundation in Computer Science and a growing interest in Robotic Process Automation (RPA) technologies. I hold a Bachelor of Computer Applications (BCA) from Sri Dev Suman University, Uttarakhand, and a Master of Computer Applications (MCA) from Graphic Era Hill University, Dehradun.
+- 💬 About Me **I am an AI Engineer based in Noida with a strong foundation in Computer Science and a growing interest in Robotic Process Automation (RPA) technologies. I hold a Bachelor of Computer Applications (BCA) from Sri Dev Suman University, Uttarakhand, and a Master of Computer Applications (MCA) from Graphic Era Hill University, Dehradun.**
 
-With a passion for building intelligent and scalable solutions, I specialize in designing and deploying AI-driven applications that optimize processes and solve real-world challenges. My career focus is on blending artificial intelligence with automation to create smarter workflows and drive innovation in business operations.
+\n**With a passion for building intelligent and scalable solutions, I specialize in designing and deploying AI-driven applications that optimize processes and solve real-world challenges. My career focus is on blending artificial intelligence with automation to create smarter workflows and drive innovation in business operations.**
 
-I am constantly exploring emerging technologies, contributing to projects, and expanding my expertise in automation and intelligent systems..**
+**I am constantly exploring emerging technologies, contributing to projects, and expanding my expertise in automation and intelligent systems..**
 
 - 📫 How to reach me **aashish783078@gmail.com**
 
