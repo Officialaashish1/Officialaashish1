@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aashish%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Python%20%26amp%3B%20AI%20Developer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descSize=26&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aashish&fontSize=86&fontColor=ffffff&fontAlignY=36&desc=Python%20%26amp%3B%20AI%20Developer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descSize=26&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <a href="https://aashish-portfolio-w7e7.onrender.com/"><img src="assets/portfolio.png" width="48" height="48" alt="Portfolio" /></a>&nbsp;&nbsp;
@@ -32,7 +32,7 @@ I care about the unglamorous half of AI engineering — retrieval that returns t
 ## ⚡ whoami
 
 ```yaml
-name:     Aashish Sharma
+name:     Aashish
 role:     Python & AI Developer
 company:  Bol7 Technologies
 location: Noida, India
@@ -166,6 +166,14 @@ Built a RAG-based internal assistant for Universal Limited: retrieval over compa
 
 <p align="center">
   <img width="100%" src="https://ghchart.rshah.org/00d4aa/Officialaashish1" alt="Aashish's contribution chart" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Officialaashish1/Officialaashish1/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Officialaashish1/Officialaashish1/output/snake-light.svg" />
+    <img width="100%" alt="Contribution snake eating the commit graph" src="https://raw.githubusercontent.com/Officialaashish1/Officialaashish1/output/snake.svg" />
+  </picture>
 </p>
 
 ---
