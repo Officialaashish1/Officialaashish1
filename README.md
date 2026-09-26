@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aashish%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Python%20%E2%80%A2%20AI%20Developer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descSize=26&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aashish%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Python%20%26amp%3B%20AI%20Developer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descSize=26&descAlignY=58" />
 
 <p align="center">
   <a href="https://linkedin.com/in/aashish-sharma-2aa057226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -161,7 +161,7 @@ Built a RAG-based internal assistant for Universal Limited: retrieval over compa
 </p>
 
 <p align="center">
-  <img width="400" src="https://streak-stats.demolab.com?user=Officialaashish1&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=00D4AA" />
+  <img width="400" src="https://streak-stats.demolab.com?user=Officialaashish1&theme=tokyonight&disable_animations=true&hide_border=true&background=0D1117&ring=00D4AA&fire=00D4AA&currStreakLabel=00D4AA&sideLabels=00D4AA" />
 </p>
 
 <p align="center">
