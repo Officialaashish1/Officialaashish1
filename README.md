@@ -1,8 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aashish%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Python%20%26amp%3B%20AI%20Developer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descSize=26&descAlignY=58" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/aashish-sharma-2aa057226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://aashish-portfolio-w7e7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/aashish-sharma-2aa057226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aashish783078@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://x.com/Aashish___1"><img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.instagram.com/official_aashish_1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.facebook.com/Officialaashish1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Officialaashish1&style=for-the-badge&color=00d4aa&label=VIEWS" />
 </p>
 
@@ -30,6 +34,7 @@ role:     Python & AI Developer
 company:  Bol7 Technologies
 location: Noida, India
 exp:      2+ years
+site:     aashish-portfolio-w7e7.onrender.com
 focus:    [ LLM apps, RAG, AI agents, automation ]
 shipping: MAYA AI — Smart Interview Panel
 motto:    "Models are easy. Production is not."
@@ -184,12 +189,22 @@ Aptech, Haridwar &nbsp;·&nbsp; `Certification`
 
 ---
 
+## 🤝 Connect
+
 <p align="center">
-  <b>Let's build something that actually ships.</b>
+  <a href="https://aashish-portfolio-w7e7.onrender.com/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/aashish-sharma-2aa057226"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://x.com/Aashish___1"><b>X</b></a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/official_aashish_1"><b>Instagram</b></a> &nbsp;·&nbsp;
+  <a href="https://www.facebook.com/Officialaashish1"><b>Facebook</b></a>
 </p>
 
 <p align="center">
-  📬 aashish783078@gmail.com &nbsp;·&nbsp; 📍 Noida, India
+  📬 <a href="mailto:aashish783078@gmail.com">aashish783078@gmail.com</a> &nbsp;·&nbsp; 📍 Noida, India
+</p>
+
+<p align="center">
+  <b>Let's build something that actually ships.</b>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
