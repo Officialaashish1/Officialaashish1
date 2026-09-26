@@ -1,13 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aashish%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Python%20%26amp%3B%20AI%20Developer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descSize=26&descAlignY=58" />
 
 <p align="center">
-  <a href="https://aashish-portfolio-w7e7.onrender.com/"><img src="https://img.shields.io/badge/Portfolio-00D4AA?style=for-the-badge&logo=googlechrome&logoColor=0D1117" /></a>
-  <a href="https://www.linkedin.com/in/aashish-sharma-2aa057226"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:aashish783078@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/Aashish___1"><img src="https://img.shields.io/badge/X-333333?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.instagram.com/official_aashish_1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/Officialaashish1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Officialaashish1&style=for-the-badge&color=00d4aa&label=VIEWS" />
+  <a href="https://aashish-portfolio-w7e7.onrender.com/"><img src="assets/portfolio.png" width="48" height="48" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aashish-sharma-2aa057226"><img src="assets/linkedin.png" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:aashish783078@gmail.com"><img src="assets/gmail.png" width="48" height="48" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/Aashish___1"><img src="assets/x.png" width="48" height="48" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/official_aashish_1"><img src="assets/instagram.png" width="48" height="48" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/Officialaashish1"><img src="assets/facebook.png" width="48" height="48" alt="Facebook" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Officialaashish1&style=for-the-badge&color=00d4aa&label=PROFILE+VIEWS" />
 </p>
 
 <p align="center">
@@ -190,6 +193,15 @@ Aptech, Haridwar &nbsp;·&nbsp; `Certification`
 ---
 
 ## 🤝 Connect
+
+<p align="center">
+  <a href="https://aashish-portfolio-w7e7.onrender.com/"><img src="assets/portfolio.png" width="42" height="42" alt="Portfolio" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aashish-sharma-2aa057226"><img src="assets/linkedin.png" width="42" height="42" alt="LinkedIn" /></a>&nbsp;&nbsp;
+  <a href="mailto:aashish783078@gmail.com"><img src="assets/gmail.png" width="42" height="42" alt="Email" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/Aashish___1"><img src="assets/x.png" width="42" height="42" alt="X" /></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/official_aashish_1"><img src="assets/instagram.png" width="42" height="42" alt="Instagram" /></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/Officialaashish1"><img src="assets/facebook.png" width="42" height="42" alt="Facebook" /></a>
+</p>
 
 <p align="center">
   <a href="https://aashish-portfolio-w7e7.onrender.com/"><b>Portfolio</b></a> &nbsp;·&nbsp;
