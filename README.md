@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aashish%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Python%20%26amp%3B%20AI%20Developer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descSize=26&descAlignY=58" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Aashish%20Sharma&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Python%20%26amp%3B%20AI%20Developer%20%E2%80%A2%20LLMs%20%E2%80%A2%20RAG&descSize=26&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
   <a href="https://aashish-portfolio-w7e7.onrender.com/"><img src="assets/portfolio.png" width="48" height="48" alt="Portfolio" /></a>&nbsp;&nbsp;
@@ -162,6 +162,14 @@ Built a RAG-based internal assistant for Universal Limited: retrieval over compa
 
 ---
 
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img width="100%" src="https://ghchart.rshah.org/00d4aa/Officialaashish1" alt="Aashish's contribution chart" />
+</p>
+
+---
+
 ## 📈 Stats
 
 <p align="center">
@@ -175,6 +183,10 @@ Built a RAG-based internal assistant for Universal Limited: retrieval over compa
 <p align="center">
   <img width="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Officialaashish1&theme=tokyonight" />
   <img width="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Officialaashish1&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Officialaashish1&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
